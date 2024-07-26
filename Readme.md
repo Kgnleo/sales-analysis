@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/power-bi-sales-analysis.git
+git clone https://github.com/kgnleo/power-bi-sales-analysis.git
 cd power-bi-sales-analysis
 Load Data:
 
